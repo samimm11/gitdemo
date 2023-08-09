@@ -1,0 +1,6 @@
+This is test3.txt file.
+Step for push the file:
+  Create a file. (It will generate a file in local repository).
+  git add file name(It will add the file in Staging area)
+  git commit (It will add the file in Git copied folder)
+  git push (Finally it add the file in Git.)
